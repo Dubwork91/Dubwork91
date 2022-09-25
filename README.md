@@ -1,12 +1,12 @@
-### 👋 Hi,i'm Adnane
-### 🔭 Industrial engineer
-### 🌱 I’m currently learning full-stack development
-### 💞️ I’m looking to collaborate on anything and everything with anybody with whom I can exchange knowledge and learn.
-### 📫 You can reach me through LinkedIn : https://www.linkedin.com/in/adnane-fennir/
+#### 👋 Hi,i'm Adnane
+#### 🔭 Industrial engineer
+#### 🌱 I’m currently learning full-stack development
+#### 💞️ I’m looking to collaborate on anything and everything with anybody with whom I can exchange knowledge and learn.
+#### 📫 You can reach me through LinkedIn : https://www.linkedin.com/in/adnane-fennir/
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif">
-  <img alt="developement" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif" width=" 1000" height="600"  />
+  <img alt="developement" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif" width=" 700" height="400"  />
 </picture>
 
 
